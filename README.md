@@ -1,3 +1,5 @@
+# Design patterns 是程序员在设计应用程序或系统时可用来解决常见问题的最佳实践手册。它可以帮助你加快开发进程，有效防止一些可能导致重大失误的细节问题，不过深入了解 java-design-patterns 之前，你应提前熟悉各种编程/软件设计原则。
+
 <!-- the line below needs to be an empty line C: (its because kramdown isnt
      that smart and dearly wants an empty line before a heading to be able to
      display it as such, e.g. website) -->
